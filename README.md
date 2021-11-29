@@ -40,7 +40,7 @@ Vale ressaltar que a pasta [GeoJSON](https://github.com/olvrjonathan/geo_analysi
 
 Para relacionar esses datasets em uma base de dados foi criado um modelo ER, como ilustrado abaixo, no qual foi decidido dividir 4 tabelas para os dados geográficos das cidades e estados, das unidades de saúde e dos beneficiários do bolsa família por estado. A base de dados "geo-analysis" foi criada no MySQL e os scripts de criação das tabelas estão no arquivo [script-sql](https://github.com/olvrjonathan/geo_analysis/blob/main/geo_analysis_create.sql). Além disso, o notebook [mysql](https://github.com/olvrjonathan/geo_analysis/blob/main/to_mysql.ipynb) faz a alocação e organização dos datasets na tabela.
 
-![Modelo ER](https://github.com/olvrjonathan/geo_analysis/blob/main/Modelo%20ER.png
+![Modelo ER](https://github.com/olvrjonathan/geo_analysis/blob/main/Modelo%20ER.png)
 
 <br>
 <br>
