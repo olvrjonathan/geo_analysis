@@ -22,11 +22,11 @@ Os dados analisados podem ser encontrados na pasta [data](https://github.com/olv
 
 <br>
 
-* Dados de Unidades Básicas de Saúde no Brasil e suas coordenadas [data/cadastro_estabelecimentos_cnes.csv](https://github.com/olvrjonathan/geo_analysis/blob/main/data/cadastro_estabelecimentos_cnes.csv). Site: [dados.gov](https://dados.gov.br/dataset/unidades-basicas-de-saude-ubs) 
+* [Dados de Unidades Básicas de Saúde no Brasil e suas coordenadas](https://github.com/olvrjonathan/geo_analysis/blob/main/data/cadastro_estabelecimentos_cnes.csv). Site: [dados.gov](https://dados.gov.br/dataset/unidades-basicas-de-saude-ubs) 
 
-* Dados de beneficiários do bolsa família e de suas variações de auxílio [Bolsa_familia](https://github.com/olvrjonathan/geo_analysis/blob/main/data/misocial.csv). Site: [dados.gov](https://dados.gov.br/dataset/beneficios-bolsa-familia-mi-social)
+* [Dados de beneficiários do bolsa família e de suas variações de auxílio](https://github.com/olvrjonathan/geo_analysis/blob/main/data/misocial.csv). Site: [dados.gov](https://dados.gov.br/dataset/beneficios-bolsa-familia-mi-social)
 
-* Dados Gerais do IBGE refente a municípios do Brasil, como população, IDHM e Pib [IBGE](https://github.com/olvrjonathan/geo_analysis/blob/main/data/Cities_Brazil_IBGE.xlsx). Site: [kaggle](https://www.kaggle.com/gabrielrs3/economy-and-population-of-cities-in-brazil-ibge)
+* [Dados Gerais do IBGE refente a municípios do Brasil, como população, IDHM e Pib](https://github.com/olvrjonathan/geo_analysis/blob/main/data/Cities_Brazil_IBGE.xlsx). Site: [kaggle](https://www.kaggle.com/gabrielrs3/economy-and-population-of-cities-in-brazil-ibge)
 
 <br>
 
