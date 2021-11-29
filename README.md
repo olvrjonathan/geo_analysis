@@ -20,11 +20,11 @@
 
 <br>
 
-<div style = "font-size: 14pt; text-align: justify">Os dados analisados podem ser encontrados na pasta [data](\data) deste repositório. Dentre eles, estão:<div/>
+<div style = "font-size: 14pt; text-align: justify">Os dados analisados podem ser encontrados na pasta [/data](/data) deste repositório. Dentre eles, estão:<div/>
 
 <br>
 
-* <div style = "font-size: 14pt; text-align: justify">Dados de Unidades Básicas de Saúde no Brasil e suas coordenadas [UBS](\data\cadastro_estabelecimentos_cnes.csv). Site: https://dados.gov.br/dataset/unidades-basicas-de-saude-ubs <div/>
+* <div style = "font-size: 14pt; text-align: justify">Dados de Unidades Básicas de Saúde no Brasil e suas coordenadas [/data/cadastro_estabelecimentos_cnes.csv](/data/cadastro_estabelecimentos_cnes.csv). Site: https://dados.gov.br/dataset/unidades-basicas-de-saude-ubs <div/>
 
 * <div style = "font-size: 14pt; text-align: justify">Dados de beneficiários do bolsa família e de suas variações de auxílio [Bolsa_familia](\data\misocial.csv). Site: https://dados.gov.br/dataset/beneficios-bolsa-familia-mi-social<div/>
 
