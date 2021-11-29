@@ -9,7 +9,7 @@
 <br>
 <br>
 
-Este trabalho tem como objetivo geral desenvolver análises gráficas, a partir da biblioteca Geopandas do Python, e manipular dados geograficas, como GeoJSON, em um banco de dados MySQL. Para isso foram selecionados alguns datasets com dados brasileiros, com informações da população, IDHM e Pib dos municípios, além do número de Unidades Básicas de Saúde e de beneficiários do Bolsa família por localidade. Esses dados foram filtrados, editados e alocados em uma base de dados MySQL, dividida em 4 tabelas, para que fossem melhor trabalhadas posteriormente. Vale ressaltar que também foi utilizada a biblioteca Folium para construção de Mapas interativos, para melhor visualização das informações ao longo do território brasileiro.
+Este trabalho tem como objetivo geral desenvolver análises gráficas, a partir da biblioteca Geopandas do Python, e manipular dados geográficos, como GeoJSON, em um banco de dados MySQL. Para isso foram selecionados alguns datasets com dados brasileiros, com informações da população, IDHM e PIB dos municípios, além do número de Unidades Básicas de Saúde e de beneficiários do Bolsa Família por localidade. Esses dados foram filtrados, editados e alocados em uma base de dados MySQL, dividida em 4 tabelas, para que fossem melhor trabalhadas posteriormente. Vale ressaltar que também foi utilizada a biblioteca Folium para construção de mapas interativos, para melhor visualização das informações ao longo do território brasileiro.
 
 <br>
 <br>
@@ -39,7 +39,7 @@ Vale ressaltar que a pasta [GeoJSON](https://github.com/olvrjonathan/geo_analysi
 
 <br>
 
-Para relacionar esses datasets em uma base de dados foi criado um modelo ER, como ilustrado abaixo, no qual foi decidido dividir 4 tabelas para os dados geográficos das cidades e estados, das unidades de saúde e dos beneficiários do bolsa família por estado. A base de dados "geo-analysis" foi criada no MySQL e os scripts de criação das tabelas estão no arquivo [script-sql](https://github.com/olvrjonathan/geo_analysis/blob/main/geo_analysis_create.sql). Além disso, o notebook [mysql](https://github.com/olvrjonathan/geo_analysis/blob/main/to_mysql.ipynb) faz a alocação e organização dos datasets na tabela.
+Para relacionar esses datasets em uma base de dados foi criado um modelo ER, como ilustrado abaixo, no qual foi decidido dividir 4 tabelas para os dados geográficos das cidades e estados, das unidades de saúde e dos beneficiários do bolsa família por estado. A base de dados "geo_analysis" foi criada no MySQL e os scripts de criação das tabelas estão no arquivo [geo_analysis_create.sql](https://github.com/olvrjonathan/geo_analysis/blob/main/geo_analysis_create.sql). Além disso, o notebook [to_mysql](https://github.com/olvrjonathan/geo_analysis/blob/main/to_mysql.ipynb) faz a alocação e organização dos datasets na tabela.
 
 ![Modelo ER](https://github.com/olvrjonathan/geo_analysis/blob/main/Modelo%20ER.png)
 
@@ -50,5 +50,5 @@ Para relacionar esses datasets em uma base de dados foi criado um modelo ER, com
 
 <br>
 
-Por fim, no notebook [exploring](https://github.com/olvrjonathan/geo_analysis/blob/main/exploring.ipynb) foram feitas as análises desses dados e visualizações de mapas utilizando, principalmente, as bibliotecas Geopandas e Folium. O notebook está comentado explicando melhor as analises e resultados conseyguidos.
+Por fim, no notebook [exploring](https://github.com/olvrjonathan/geo_analysis/blob/main/exploring.ipynb) foram feitas as análises desses dados e visualizações de mapas utilizando, principalmente, as bibliotecas Geopandas e Folium. O notebook está comentado explicando melhor as análises e resultados conseguidos.
 
