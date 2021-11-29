@@ -20,7 +20,7 @@
 
 <br>
 
-<div style = "font-size: 14pt; text-align: justify">Os dados analisados podem ser encontrados na pasta [data](data) deste repositório. Dentre eles, estão:<div/>
+<div style = "font-size: 14pt; text-align: justify">Os dados analisados podem ser encontrados na pasta [data](https://github.com/olvrjonathan/geo_analysis/tree/main/data) deste repositório. Dentre eles, estão:<div/>
 
 <br>
 
